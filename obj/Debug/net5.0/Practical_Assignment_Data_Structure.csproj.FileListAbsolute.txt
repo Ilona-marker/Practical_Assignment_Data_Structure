@@ -1,0 +1,16 @@
+C:\Users\Aivar\Practical_Assignment_Data_Structure\bin\Debug\net5.0\Practical_Assignment_Data_Structure.exe
+C:\Users\Aivar\Practical_Assignment_Data_Structure\bin\Debug\net5.0\Practical_Assignment_Data_Structure.deps.json
+C:\Users\Aivar\Practical_Assignment_Data_Structure\bin\Debug\net5.0\Practical_Assignment_Data_Structure.runtimeconfig.json
+C:\Users\Aivar\Practical_Assignment_Data_Structure\bin\Debug\net5.0\Practical_Assignment_Data_Structure.runtimeconfig.dev.json
+C:\Users\Aivar\Practical_Assignment_Data_Structure\bin\Debug\net5.0\Practical_Assignment_Data_Structure.dll
+C:\Users\Aivar\Practical_Assignment_Data_Structure\bin\Debug\net5.0\ref\Practical_Assignment_Data_Structure.dll
+C:\Users\Aivar\Practical_Assignment_Data_Structure\bin\Debug\net5.0\Practical_Assignment_Data_Structure.pdb
+C:\Users\Aivar\Practical_Assignment_Data_Structure\obj\Debug\net5.0\Practical_Assignment_Data_Structure.csprojAssemblyReference.cache
+C:\Users\Aivar\Practical_Assignment_Data_Structure\obj\Debug\net5.0\Practical_Assignment_Data_Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aivar\Practical_Assignment_Data_Structure\obj\Debug\net5.0\Practical_Assignment_Data_Structure.AssemblyInfoInputs.cache
+C:\Users\Aivar\Practical_Assignment_Data_Structure\obj\Debug\net5.0\Practical_Assignment_Data_Structure.AssemblyInfo.cs
+C:\Users\Aivar\Practical_Assignment_Data_Structure\obj\Debug\net5.0\Practical_Assignment_Data_Structure.csproj.CoreCompileInputs.cache
+C:\Users\Aivar\Practical_Assignment_Data_Structure\obj\Debug\net5.0\Practical_Assignment_Data_Structure.dll
+C:\Users\Aivar\Practical_Assignment_Data_Structure\obj\Debug\net5.0\ref\Practical_Assignment_Data_Structure.dll
+C:\Users\Aivar\Practical_Assignment_Data_Structure\obj\Debug\net5.0\Practical_Assignment_Data_Structure.pdb
+C:\Users\Aivar\Practical_Assignment_Data_Structure\obj\Debug\net5.0\Practical_Assignment_Data_Structure.genruntimeconfig.cache
